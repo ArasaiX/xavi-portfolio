@@ -1,0 +1,19 @@
+body {
+    color: white
+}
+
+.card {
+    background-color: darkmagenta;
+    border: 2px solid blue;
+    border-radius: 5%;
+    width: 25vh;
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 18px 24px 24px 24px;
+}
+
+
+
+.button {
+    padding-top: 1em;
+}

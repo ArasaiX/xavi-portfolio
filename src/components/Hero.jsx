@@ -1,9 +1,10 @@
 import React from 'react';
+import '../styles/hero.css';
 
 const Hero = () => {
     return (
-        <section>
-            <div>
+        <section className='hero'> 
+            <div className='title-hero'>
                 <h1>Portfolio de Xavi Fernández</h1>
             </div>
             <div>
