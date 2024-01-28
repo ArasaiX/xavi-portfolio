@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/navbar.css';
+import '../styles/NavBar.module.css';
 
 const HeaderComponent = () => {
   const [isMenuActive, setMenuActive] = useState(false);
